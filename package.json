@@ -1,0 +1,34 @@
+{
+  "name": "fecs-format",
+  "version": "1.0.3",
+  "description": "fecs helper tool",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "bin": {
+    "fecs-format": "index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^0.24.0",
+    "stream-map": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huanghuiquan/fecs-format.git"
+  },
+  "keywords": [
+    "fecs",
+    "format"
+  ],
+  "author": "huanghuiquan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huanghuiquan/fecs-format/issues"
+  },
+  "homepage": "https://github.com/huanghuiquan/fecs-format#readme"
+}
